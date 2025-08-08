@@ -1,22 +1,11 @@
 ---
-cover: /assets/images/cover2.jpg
-icon: pen-to-square
-date: 2022-01-12
+date: 2025-08-08
 category:
-  - 蔬菜
+  - 日常博客
 tag:
-  - 红
-  - 圆
-star: true
+  - 第一次
+  - 日常
 sticky: true
 ---
 
-# 番茄
-
-## 标题 2
-
-这里是内容。
-
-### 标题 3
-
-这里是内容。
+这是我第一个 VUE 框架的博客

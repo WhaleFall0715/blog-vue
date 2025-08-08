@@ -22,18 +22,10 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "music/",
         children: [
+          { text: "推歌", icon: "pen-to-square", link: "music" },
 
         ],
       },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
     ],
-  },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
   },
 ]);

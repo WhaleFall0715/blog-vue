@@ -9,33 +9,20 @@ export default navbar([
     prefix: "/posts/",
     children: [
       {
-        text: "苹果",
+        text: "日常",
         icon: "pen-to-square",
-        prefix: "apple/",
+        prefix: "daily/",
         children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
+          { text: "日常1", icon: "pen-to-square", link: "1" },
+          { text: "日常2", icon: "pen-to-square", link: "2" },
         ],
       },
       {
-        text: "香蕉",
+        text: "好听的歌",
         icon: "pen-to-square",
-        prefix: "banana/",
+        prefix: "music/",
         children: [
-          {
-            text: "香蕉 1",
-            icon: "pen-to-square",
-            link: "1",
-          },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
+
         ],
       },
       { text: "樱桃", icon: "pen-to-square", link: "cherry" },

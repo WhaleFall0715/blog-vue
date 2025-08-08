@@ -13,7 +13,7 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "daily/",
         children: [
-          { text: "日常1", icon: "pen-to-square", link: "1" },
+          { text: "日常1", icon: "pen-to-square", link: "firstPost" },
           { text: "日常2", icon: "pen-to-square", link: "2" },
         ],
       },

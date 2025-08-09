@@ -36,7 +36,10 @@ export default navbar([
         text: "后摇",
         icon: "",
         prefix: "postrock/",
-        children: [{ text: "Flemington", icon: "", link: "Flemington" }],
+        children: [
+          { text: "Flemington", icon: "", link: "Flemington" },
+          { text: "Who You Are Is Not Enough", icon: "", link: "WYAINE" },
+        ],
       },
     ],
   },

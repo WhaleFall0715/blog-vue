@@ -11,6 +11,7 @@ export default hopeTheme({
   },
 
   logo: "/assets/images/advara.jpg",
+  
 
   repo: "WhaleFall0715/blog-vue",
 

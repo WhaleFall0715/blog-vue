@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mister-hope.github.io/blog-vue/sitemap.xml
+Sitemap: https://whalefall0715.github.io/blog-vue/blog-vue/sitemap.xml

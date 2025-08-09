@@ -1,7 +1,5 @@
 // place your custom styles here
-.logo {
-    // 强制尺寸
-    
+.vp-blogger-avatar,.vp-nav-logo {
     // 圆角效果
     border-radius: 50%;
     
@@ -11,3 +9,22 @@
       transform: rotate(15deg);
     }
   }
+
+  .vp-blog-hero-info,.vp-blog-hero-description {
+    color: transparent;
+    background: linear-gradient(90deg, #d97e8a, #c8d0f2, #d97e8a, #c8d0f2,#d97e8a );
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: waveFlow 4s linear infinite;
+  }
+  
+  @keyframes waveFlow {
+    0% {
+      background-position: 0% center;
+    }
+    100% {
+      background-position: 200% center;
+    }
+  }
+  

@@ -39,6 +39,7 @@ tagline: 欢迎来到我的博客
 #     link: https://你的自定义链接
 
 footer: D的博客
+bgImage: "/assets/images/background-main.jpg"
 ---
 
 <!-- 这是一个博客主页的案例。 -->

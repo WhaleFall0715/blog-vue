@@ -11,7 +11,6 @@ export default hopeTheme({
   },
 
   logo: "/assets/images/advara.jpg",
-  
 
   repo: "WhaleFall0715/blog-vue",
 
@@ -35,6 +34,7 @@ export default hopeTheme({
       Gitee: "https://gitee.com/dufei_handsome",
       GitHub: "https://github.com/",
     },
+    timeline: "明日未来",
   },
 
   // 加密配置
@@ -61,7 +61,7 @@ export default hopeTheme({
     attrs: true,
     codeTabs: true,
     component: true,
-    demo: true,
+    demo: false,
     figure: true,
     gfm: true,
     imgLazyload: true,
@@ -88,7 +88,6 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
-
   },
 
   // 在这里配置主题提供的插件
@@ -104,4 +103,3 @@ export default hopeTheme({
     },
   },
 });
-

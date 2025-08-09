@@ -5,7 +5,7 @@ category:
 tag:
   - 第一次
   - 日常
-sticky: true
+sticky: false
 ---
 
 这是我第一个 VUE 框架的博客

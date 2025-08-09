@@ -4,7 +4,7 @@ export default navbar([
   "/",
   {
     text: "关于我",
-    prefix: "post/aboutMe",
+    prefix: "posts/aboutMe",
     children: [
       {
         text: "关于我",

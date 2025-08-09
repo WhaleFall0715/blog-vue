@@ -1,1 +1,13 @@
 // place your custom styles here
+.navbar .logo {
+    // 强制尺寸
+    
+    // 圆角效果
+    border-radius: 50%;
+    
+    // 悬停动画
+    transition: transform 0.3s ease;
+    &:hover {
+      transform: rotate(15deg);
+    }
+  }

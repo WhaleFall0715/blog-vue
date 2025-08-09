@@ -12,7 +12,7 @@ export default hopeTheme({
 
   logo: "/assets/images/advara.jpg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "WhaleFall0715/blog-vue",
 
   docsDir: "src",
 

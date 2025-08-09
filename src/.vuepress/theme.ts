@@ -10,7 +10,7 @@ export default hopeTheme({
     name: "D",
   },
 
-  logo: "./public/assets/images/advara.jpg",
+  logo: "/assets/images/advara.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 

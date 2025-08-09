@@ -10,7 +10,7 @@ export default hopeTheme({
     name: "D",
   },
 
-  logo: "https://gitee.com/dufei_handsome/mypic/raw/master/20250808165110.jpg",
+  logo: "./public/assets/images/advara.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
 
   // 页脚
   footer: "默认页脚",
-  displayFooter: true,
+  displayFooter: false,
 
   // 博客相关
   blog: {
@@ -32,7 +32,7 @@ export default hopeTheme({
     intro: "/intro.html",
     medias: {
       Gitee: "https://gitee.com/dufei_handsome",
-      GitHub: "https://github.com/WhaleFall0715",
+      GitHub: "https://github.com/",
     },
   },
 

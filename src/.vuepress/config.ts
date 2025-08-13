@@ -10,6 +10,9 @@ export default defineUserConfig({
   description: "会讲述一些我的故事",
 
   theme,
+  markdown: {
+    html: false, // 完全禁用 HTML 标签解析
+  },
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,

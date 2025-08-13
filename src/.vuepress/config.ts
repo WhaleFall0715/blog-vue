@@ -13,6 +13,15 @@ export default defineUserConfig({
   markdown: {
     html: false, // 完全禁用 HTML 标签解析
   },
+  head: [
+    [
+      "meta",
+      {
+        name: "referrer",
+        content: "no-referrer",
+      },
+    ],
+  ],
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,

@@ -31,6 +31,26 @@ export default sidebar({
           children: [
             { text: "日常1", icon: "pen-to-square", link: "firstPost" },
             { text: "日常2", icon: "pen-to-square", link: "8-9" },
+            {
+              text: "第三周工作笔记",
+              icon: "pen-to-square",
+              link: "第三周笔记",
+            },
+            {
+              text: "第四周工作笔记",
+              icon: "pen-to-square",
+              link: "第四周笔记",
+            },
+            {
+              text: "第五周工作笔记",
+              icon: "pen-to-square",
+              link: "第五周笔记",
+            },
+            {
+              text: "第六周工作笔记",
+              icon: "pen-to-square",
+              link: "第六周笔记",
+            },
           ],
         },
         {

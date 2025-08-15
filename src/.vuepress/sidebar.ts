@@ -29,8 +29,7 @@ export default sidebar({
           icon: "sun",
           prefix: "daily/",
           children: [
-            { text: "日常1", icon: "pen-to-square", link: "firstPost" },
-            { text: "日常2", icon: "pen-to-square", link: "8-9" },
+            { text: "框架搭建过程", icon: "pen-to-square", link: "firstPost" },
             {
               text: "第三周工作笔记",
               icon: "pen-to-square",
@@ -66,6 +65,30 @@ export default sidebar({
                 { text: "Flemington", icon: "", link: "Flemington" },
                 { text: "Who You Are Is Not Enough", icon: "", link: "WYAINE" },
               ],
+            },
+            {
+              text: "电子音乐",
+              icon: "",
+              prefix: "postrock/",
+              children: [
+                {
+                  text: "Trance",
+                  icon: "",
+                  prefix: "postrock/",
+                  children: [],
+                },
+              ],
+            },
+          ],
+        },
+        {
+          text: "学习文档",
+          prefix: "docs/",
+          children: [
+            {
+              text: "本地使用API部署AI",
+              icon: "book",
+              link: "AI使用文档",
             },
           ],
         },

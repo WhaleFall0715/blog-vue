@@ -32,7 +32,7 @@ export default hopeTheme({
     intro: "/intro.html",
     medias: {
       Gitee: "https://gitee.com/dufei_handsome",
-      GitHub: "https://github.com/",
+      GitHub: "https://github.com/whalefall0715",
     },
     timeline: "明日未来",
   },

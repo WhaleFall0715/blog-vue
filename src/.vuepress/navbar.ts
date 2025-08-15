@@ -3,6 +3,11 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   {
+    text: "文章列表",
+    link: "/posts/",
+    icon: "book",
+  },
+  {
     text: "关于我",
     prefix: "posts/aboutMe",
     children: [
@@ -18,6 +23,7 @@ export default navbar([
       },
     ],
   },
+
   {
     text: "日常",
     icon: "sun",

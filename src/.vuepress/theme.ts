@@ -91,15 +91,15 @@ export default hopeTheme({
   },
 
   // 在这里配置主题提供的插件
+  // 在 export default hopeTheme({...}) 的 plugins 下添加
   plugins: {
     blog: true,
-
-    components: {
-      components: ["Badge", "VPCard"],
-    },
-
-    icon: {
-      prefix: "fa6-solid:",
+    components: { components: ["Badge", "VPCard"] },
+    icon: { prefix: "fa6-solid:" },
+    comment: {
+      provider: "Artalk",
+      server: "https://your-artalk-server",
+      site: "D`s Blog",
     },
   },
 });

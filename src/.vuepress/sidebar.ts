@@ -90,6 +90,11 @@ export default sidebar({
               icon: "book",
               link: "AI使用文档",
             },
+            {
+              text: "vue一键部署到服务器",
+              icon: "book",
+              link: "一键部署到服务器",
+            },
           ],
         },
       ],

@@ -2,12 +2,14 @@
 title: 本地使用API部署AI
 date: 2025-08-15
 category:
-  - 日常博客
+  - 学习博客
 tag:
   - 学习文档
   - AI使用
 sticky: false
 ---
+
+> <!-- more -->
 
 ## 1.本地部署 API 软件选择
 

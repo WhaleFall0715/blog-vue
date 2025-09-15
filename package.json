@@ -5,10 +5,12 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "docs:build": "vuepress-webpack build src",
+    "docs:build": "vuepress-webpack build src && npm run compress && npm run deploy",
     "docs:clean-dev": "vuepress-webpack dev src --clean-cache",
     "docs:dev": "vuepress-webpack dev src",
-    "docs:update-package": "npx vp-update"
+    "docs:update-package": "npx vp-update",
+    "compress": "cd src/.vuepress && jar -cvf dist.zip -C dist .",
+    "deploy": "cd src/.vuepress && powershell -ExecutionPolicy Bypass -File SEND.ps1"
   },
   "devDependencies": {
     "@vuepress/bundler-webpack": "2.0.0-rc.24",
@@ -17,5 +19,8 @@
     "vue": "^3.5.17",
     "vuepress": "2.0.0-rc.24",
     "vuepress-theme-hope": "2.0.0-rc.94"
+  },
+  "dependencies": {
+    "artalk": "^2.9.1"
   }
 }

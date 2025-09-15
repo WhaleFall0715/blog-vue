@@ -1,0 +1,38 @@
+/*!
+  * vue-router v4.5.1
+  * (c) 2025 Eduardo San Martin Morote
+  * @license MIT
+  */
+
+/**
+ * @title Artalk API
+ * @version 2.0
+ * @license MIT (https://github.com/ArtalkJS/Artalk/blob/master/LICENSE)
+ * @baseUrl /api/v2
+ * @contact API Support <artalkjs@gmail.com> (https://artalk.js.org)
+ *
+ * Artalk is a modern comment system based on Golang.
+ */
+
+/**
+ * NProgress, (c) 2013, 2014 Rico Sta. Cruz - http://ricostacruz.com/nprogress
+ * @license MIT
+ */
+
+/**
+* @vue/reactivity v3.5.21
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/runtime-dom v3.5.21
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/shared v3.5.21
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/

@@ -5,6 +5,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
+    "docs:build-only": "vuepress-webpack build src",
     "docs:build": "vuepress-webpack build src && npm run compress && npm run deploy",
     "docs:clean-dev": "vuepress-webpack dev src --clean-cache",
     "docs:dev": "vuepress-webpack dev src",

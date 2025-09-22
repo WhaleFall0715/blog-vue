@@ -167,7 +167,7 @@ pnpm build:win
 
 ## 问题收集
 
-<a id="Q1">### 1.pnpm 以及 npm 安装后报错 electron 依赖没找到</a>
+### 1.pnpm 以及 npm 安装后报错 electron 依赖没找到<a id="Q1"></a>
 
 ![image-20250920124801113](https://gitee.com/dufei_handsome/mypic/raw/master/20250920124803.png)
 

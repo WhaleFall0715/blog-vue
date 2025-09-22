@@ -151,7 +151,7 @@ pnpm electron:preview --先查看是否可以构建
 pnpm electron:build
 ```
 
-此时可能会碰到 electron 无法找到的问题，解决方案查看问题收集下的[第一条](# 1.pnpm 以及 npm 安装后报错 electron 依赖没找到)
+此时可能会碰到 electron 无法找到的问题，解决方案查看问题收集下的![第一条](# 1.pnpm 以及 npm 安装后报错 electron 依赖没找到)
 
 ### 6.build 成功后执行 exe 打包命令
 

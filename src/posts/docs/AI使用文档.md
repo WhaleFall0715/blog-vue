@@ -13,7 +13,7 @@ sticky: false
 
 ## 1.本地部署 API 软件选择
 
-​ 现在比较好用的本地部署 api 的软件就是 chatbox![image-20250815082442667](https://gitee.com/dufei_handsome/mypic/raw/master/20250815082445.png),官方下载链接可以直接下载,不如要使用魔法[下载链接]([Chatbox AI 官网：办公学习的 AI 好助手，全平台 AI 客户端，官方免费下载](https://chatboxai.app/zh)).下面是软件介绍
+​ 现在比较好用的本地部署 api 的软件就是 chatbox![image-20250815082442667](https://gitee.com/dufei_handsome/mypic/raw/master/20250815082445.png),官方下载链接可以直接下载,不如要使用魔法[下载链接](https://chatboxai.app/zh).下面是软件介绍
 
 ### (1)主页面
 

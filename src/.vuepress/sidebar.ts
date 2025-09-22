@@ -95,6 +95,11 @@ export default sidebar({
               icon: "book",
               link: "一键部署到服务器",
             },
+            {
+              text: "electron部署桌面端应用",
+              icon: "book",
+              link: "electron",
+            },
           ],
         },
       ],
